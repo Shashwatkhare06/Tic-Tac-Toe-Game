@@ -21,4 +21,5 @@ This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS,
 - HTML: Used for structuring the web page.
 - CSS: Used for styling the game interface.
 - JavaScript: Used for implementing the game logic and interactivity.
-This Tic Tac Toe game was created by Shashwat Khare as a learning project.
+- This Tic Tac Toe game was created as a learning project.
+ 
